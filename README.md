@@ -28,7 +28,6 @@ The Horse Racing Simulator is a Java application that simulates a horse race wit
 - Java IO: For reading and writing files.
 
 ## Author
-[Your Name]
+Abdirahman Hussein Ahmed
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
